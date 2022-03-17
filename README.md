@@ -1,1 +1,1 @@
-[![Airsleep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Airsleep&show_icons=true&theme=onedark)](api/pin?username=Airsleep&repo=github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Airsleep&repo=github-readme-stats)](https://github.com/Airsleep/github-readme-stats)
