@@ -1,1 +1,5 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Airsleep&repo=github-readme-stats)](https://github.com/Airsleep/github-readme-stats)
+[![Airsleep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Airsleep&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Airsleep)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Airsleep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Airsleep)](https://github.com/anuraghazra/github-readme-stats)
